@@ -18,3 +18,4 @@ docs/gallery/
 *.zip
 examples/*.png
 _downloads
+.idea/*
